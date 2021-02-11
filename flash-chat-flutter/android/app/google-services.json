@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990272651088",
+    "project_id": "flash-chat-2beb0",
+    "storage_bucket": "flash-chat-2beb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990272651088:android:ca2a196fec370295e0f655",
+        "android_client_info": {
+          "package_name": "co.kratikaMittal.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990272651088-stv4nqv5f11vddcn2a9avv9g08esnb6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPF8PggBXysjwNxs941JSKfCfzgZtWuDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990272651088-stv4nqv5f11vddcn2a9avv9g08esnb6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
